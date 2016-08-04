@@ -9,7 +9,7 @@ function circle(x, y, diameter) {
 
 function setup() {
   createCanvas(600, 600);
-  background 0, 204, 0);
+  background (0, 204, 0);
 }
 
 function draw() {
